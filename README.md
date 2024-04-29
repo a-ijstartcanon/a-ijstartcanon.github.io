@@ -1,6 +1,6 @@
 # ij.start.canon 
 
-[![ij.start.canon](get-start-button.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
+[![ij.start.canon](get-start-button.png)](https://can.printredir.com)
 
 The canon ij setup uses a wireless link to connect your printer to other devices. Canon printer enables the users to print from any devices such as smartphones, tablets, computers, laptops or other. **[ij.start.canon](https://a-ijstartcanon.github.io/)** is a portal that allows users to easily download and setup canon ij printer software.
 
